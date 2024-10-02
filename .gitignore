@@ -1,0 +1,4 @@
+# this is my intructions gitignore file for git to disregard
+
+*.bam
+*.pzfm 
